@@ -105,6 +105,5 @@
 	"ParserTestFiles": [
 		"tests/parserTests.txt"
 	],
-	"load_composer_autoloader": true,
 	"manifest_version": 1
 }
